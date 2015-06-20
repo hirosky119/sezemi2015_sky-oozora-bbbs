@@ -1,4 +1,4 @@
 # じこしょうかい
 
 しもとりしぐれです
-JapanasaとSwiftをはなします
+JapaneseとSwiftをはなします
