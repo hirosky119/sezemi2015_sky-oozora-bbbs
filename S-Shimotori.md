@@ -1,4 +1,7 @@
 # じこしょうかい
 
-しもとりしぐれです
-JapaneseとSwiftをはなします
+しもとりしぐれです  
+JapaneseとSwiftをはなします  
+
+ごちそうさまでした  
+:curry:
